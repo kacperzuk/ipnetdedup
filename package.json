@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kacperzuk/ipnetdedup/issues"
   },
-  "homepage": "https://github.com/kacperzuk/ipnetdedup#readme"
+  "homepage": "https://github.com/kacperzuk/ipnetdedup#readme",
+  "dependencies": {
+    "ip": "^1.0.1",
+    "ipcheck": "^0.1.0"
+  }
 }
