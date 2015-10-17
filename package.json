@@ -1,0 +1,19 @@
+{
+  "name": "ipnetdedup",
+  "version": "0.1.0",
+  "description": "Find overlapping IP networks and merge them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacperzuk/ipnetdedup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kacperzuk/ipnetdedup/issues"
+  },
+  "homepage": "https://github.com/kacperzuk/ipnetdedup#readme"
+}
